@@ -1,1 +1,3 @@
-# wirkFlow
+<!-- # wirkFlow -->
+<!-- Section 19: Modern Workflow with Babel & Webpack-->
+"Create wirkFlow (as replacement to workFlow which went badly wrong) create git ignore file for nodemodules!"
