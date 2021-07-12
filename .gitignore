@@ -1,2 +1,11 @@
-node_modules
-package-lock.json
+
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
