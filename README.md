@@ -17,3 +17,4 @@
 "Save updated gitignore file"
 "Have run into problems with webpack security Two weeks wasted Will research and correct Save README file for now"
 "Restart project delete all files except git ignore and README Avoid npm audit problems by using npm install no audit - here's hoping!"
+"Complete exercise before & after Save the two files to git then delete"
