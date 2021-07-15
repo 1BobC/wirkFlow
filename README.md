@@ -19,3 +19,4 @@
 "Restart project delete all files except git ignore and README Avoid npm audit problems by using npm install no audit - here's hoping!"
 "Complete exercise before & after Save the two files to git then delete"
 "Install node and babel as *153 Complete exercises as *154 using babel cli (as previous note in git) Create dist folder and index html file Create assets folder and bundle js file Complete #155 npm scripts and watching files"
+"Complete #156 What is Webpack? #157 Setting up a Webpack File #158 Webpack CLI #159 Introduction to (es6) Modules nb specify export from dom file and import into index js file (which is webpack entry file)"

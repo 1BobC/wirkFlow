@@ -1,9 +1,1 @@
-"use strict";
-
-var greet = function greet(name) {
-  console.log("hello ".concat(name));
-};
-
-greet('mario');
-greet('luigi');
-greet('link');
+(()=>{"use strict";console.log("dom file");const e=document.querySelector("body");console.log("index file"),(o=>{const t=document.createElement("h1");t.textContent="add title - test",e.appendChild(t)})(),e.style.background="peachpuff",console.log("mario@ninja.co.uk")})();
