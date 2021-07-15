@@ -18,3 +18,4 @@
 "Have run into problems with webpack security Two weeks wasted Will research and correct Save README file for now"
 "Restart project delete all files except git ignore and README Avoid npm audit problems by using npm install no audit - here's hoping!"
 "Complete exercise before & after Save the two files to git then delete"
+"Install node and babel as *153 Complete exercises as *154 using babel cli (as previous note in git) Create dist folder and index html file Create assets folder and bundle js file Complete #155 npm scripts and watching files"
