@@ -23,3 +23,5 @@
 "Complete#160 Default Exports #161 Watching for Changes 
 
 Cannot complete #162 The Webpack Dev Server npm cannot find module 'webpack/bin/config-yargs' Watch turorials#163 #164 #165"
+
+"Complete #162 The Webpack Dev Server !!! Re-installed npm with devDependancies copied from boilerplate package.json - npm can now find 'webpack/bin/config-yargs' Continue and Complete #163 Production & Development Modes #164 Babel & Webpack Together #165 Webpack Boilerplate"

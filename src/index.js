@@ -19,3 +19,5 @@ console.log('will this be watched? Y or N');
 console.log('Convince me!');
 
 console.log('Convince me again!');
+
+console.log('Testing wabpack dev server auto update');
